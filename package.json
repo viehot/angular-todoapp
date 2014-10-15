@@ -1,7 +1,13 @@
 {
   "name": "mytodoapp",
   "version": "0.0.0",
-  "dependencies": {},
+  "dependencies": {
+    "imagemin": "^2.0.1",
+    "imagemin-gifsicle": "^2.0.0",
+    "imagemin-jpegtran": "^2.0.0",
+    "imagemin-optipng": "^2.0.1",
+    "imagemin-pngquant": "^2.0.0"
+  },
   "devDependencies": {
     "grunt": "^0.4.1",
     "grunt-autoprefixer": "^0.7.3",
